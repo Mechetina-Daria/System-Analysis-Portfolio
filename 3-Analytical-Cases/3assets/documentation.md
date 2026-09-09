@@ -12,7 +12,7 @@
 <div align="center">
   
 **Общая схема BPMN**  
-![BPMN верхнего уровня](./3assets/BPMN0.png) 
+![BPMN верхнего уровня](BPMN0.png) 
 
 </div> 
 
@@ -27,7 +27,7 @@
 <div align="center">
   
 **Фрагмент BPMN-модели: прием и первичная проверка заявки**  
-![BPMN верхнего уровня](./3assets/BPMN.png) 
+![BPMN верхнего уровня](BPMN.png) 
 
 </div>
 
@@ -40,7 +40,7 @@
 <div align="center">
   
 **Фрагмент BPMN-модели: проверка и классификация загадки**  
-![BPMN верхнего уровня](./3assets/BPMN1.png) 
+![BPMN верхнего уровня](BPMN1.png) 
 
 </div>
 
@@ -53,7 +53,7 @@
 <div align="center">
   
 **Фрагмент BPMN-модели: отбор загадок для игры**  
-![BPMN верхнего уровня](./3assets/BPMN2.png) 
+![BPMN верхнего уровня](BPMN2.png) 
 
 </div>
 
@@ -66,7 +66,7 @@
 <div align="center">
   
 **Фрагмент BPMN-модели: проведение игры**  
-![BPMN верхнего уровня](./3assets/BPMN3.png) 
+![BPMN верхнего уровня](BPMN3.png) 
 
 </div>
 
@@ -79,7 +79,7 @@
 <div align="center">
   
 **Фрагмент BPMN-модели: оповещение авторов загадок**  
-![BPMN верхнего уровня](./3assets/BPMN4.png) 
+![BPMN верхнего уровня](BPMN4.png) 
 
 </div>
 
